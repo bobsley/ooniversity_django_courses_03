@@ -53,7 +53,7 @@
 
 				<hr/>
 				<h2 class="red">Founder</h2>
-				<p class="t_name" location=right>Name:<span class="name">Noname</span></p>
+				<p class="t_name">Name:<span class="name">Noname</span></p>
 				<p class="t_skype">Skype:<span class="skype">Noname</span></p>
 				<p class="t_mail">Email:<span class="mail">adres_3@gmail.com</span></p>
 				<p class="t_tel">Phone:<span class="tel">0123456787</span></p>

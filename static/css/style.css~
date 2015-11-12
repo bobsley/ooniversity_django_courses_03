@@ -12,15 +12,15 @@ body{
 }
 .t_skype{
 	font-family: Blippo;
-	color: gray;
+	color: green;
 }
 .t_mail{
 	font-family: Arial, cursive;	
-	color: gray;
+	color: green;
 }
 .t_tel{
 	font-family: "Courier New", Courier, monospace;	
-	color: grey;
+	color: green;
 }
 .name{
 	font-family: Arial;	
