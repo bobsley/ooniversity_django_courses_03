@@ -12,7 +12,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="../static/css/bootstrap.min.css" rel="stylesheet">
-
+		<link href="../static/css/style.css" rel="stylesheet">
     <link href="../static/css/starter-template.css" rel="stylesheet">
     <script src="../static/js/ie-emulation-modes-warning.js"></script>
 
@@ -24,8 +24,8 @@
       <div class="container">
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="#">Main</a></li>
-            <li><a href="contact.html">Contacts</a></li>
+            <li><a text="Main" href="#">Main</a></li>
+            <li><a text= "Contacts" href="contact.html">Contacts</a></li>
           </ul>
         </div>
       </div>
@@ -40,7 +40,7 @@
 			Курс подразумевает, что студенты уже освоили базовый python. 
 В рамках курса даются азы html/css, достаточные для формирования html страниц браузеру, но не достаточные для профессиональной верстки.
 Глубина освоения django будет достаточной для самостоятельного написания web-проектов, которые содержат редактируемые страницы, структуру специфических данных, отображение их на фронтенде и создание-редактирование этих данных.
-Все разделы django будут освещены.
+Все разделы django будут освещены.(temp)
 			</p>
 			</div>
       </div>
